@@ -1,4 +1,4 @@
-# candyland simulation
+# Candyland Simulation
 
 Created a simulation of Candy Land, that records and graphs some basic metrics, using the given paramerters.
 
